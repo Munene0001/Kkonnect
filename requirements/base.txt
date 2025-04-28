@@ -1,0 +1,16 @@
+# Core Packages
+certifi==2024.6.2
+python-dotenv==1.0.1
+urllib3==2.2.1
+
+# Data Science
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.4.2
+torch==2.3.0+cpu
+
+# Web Development
+django==5.0.6
+djangorestframework==3.15.1
+fastapi==0.111.0
+uvicorn==0.29.0
